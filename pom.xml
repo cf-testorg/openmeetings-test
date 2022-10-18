@@ -86,7 +86,7 @@
 		<ical4j.version>3.0.18</ical4j.version>
 		<cxf.version>3.4.0</cxf.version>
 		<simple-xml.version>2.7.1</simple-xml.version>
-		<jettison.version>1.4.1</jettison.version>
+		<jettison.version>1.5.1</jettison.version>
 		<site.basedir>${project.basedir}</site.basedir>
 		<src.pack.skip>false</src.pack.skip>
 		<h2.version>1.4.200</h2.version>
